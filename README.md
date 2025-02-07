@@ -53,7 +53,7 @@ Developed a prediction system that:
    - Multi-model stacking and weighting
 
 3. **Validation System**
-   - Temporal split validation (2011 vs 2012 data)
+   - Temporal split validation
    - Kaggle score tracking across iterations
    - Negative prediction clipping for operational realism
 
